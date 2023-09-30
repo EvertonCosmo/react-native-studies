@@ -1,0 +1,3 @@
+[submodule "NubbleApp"]
+	path = NubbleApp
+	url = https://github.com/EvertonCosmo/NubbleApp
